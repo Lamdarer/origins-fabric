@@ -162,7 +162,7 @@
   "commands.origin.set.success.single": "Ursprung von %s wurde auf %s gesetzt.",
   "commands.origin.set.success.multiple": "Ursprung von %s Zielen wurde auf %s gesetzt.",
   "origin.origins.shulk.name": "Shulk",
-  "origin.origins.shulk.description": "Verwand mit Shulkern, die Körper der Shulk sind mit einer schützenden panzerschaligen Haut ausgestattet.",
+  "origin.origins.shulk.description": "Verwandt mit Shulkern, die Körper der Shulk sind mit einer schützenden panzerschaligen Haut ausgestattet.",
   "power.origins.shulker_inventory.name": "Horter",
   "power.origins.shulker_inventory.description": "Du hast zugriff auf einen zusätzlichen 9 Slot Inventarbereich, welcher Gegenstände über den Tod hinaus bewahrt.",
   "power.origins.natural_armor.name": "Feste Haut",
